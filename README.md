@@ -1,2 +1,2 @@
-# Sc_302_documentacion
-es el primer laboratorio
+# Laboratorio1
+es el primer laboratorio para pruebas 
