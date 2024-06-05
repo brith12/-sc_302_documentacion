@@ -1,2 +1,2 @@
-# -sc_302_documentacion
+# Sc_302_documentacion
 es el primer laboratorio
